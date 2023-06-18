@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-Hi! I'm Dan Gieschen Knutson, and my middle name is usually not taken as username.
+Hi! I'm Dan.
